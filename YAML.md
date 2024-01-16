@@ -1,3 +1,17 @@
+### Lenguaje De Marcas
+### Santiago Bernal Gomez
+### IES SANT VICENT FERRER
+### 1RO DAM
+### 16/01/24
+---------------------------
+### **Índice**
+1. ¿Qué es YAML?
+2. Sintaxis de YAML
+3. Ejemplo de sintaxis de YAML
+4. Los usos de YAML
+5. Bibliografía
+---------------------------
+
 # **YAML** 
 ### **¿Que es YAML?**
 Es un lenguaje de serialización de datos ampliamente utilizado en el diseño de archivos de configuración. A diferencia de algunos lenguajes de marcado, *YAML* se destaca por su enfoque en la representación de datos en lugar de documentos. 
@@ -28,6 +42,8 @@ Si este archivo se traduce a Python con la biblioteca PyYAML, se generará la es
 Uno de los usos más comunes es la creación de archivos de configuración. Se recomienda utilizar *YAML* en lugar de *JSON* para escribir los archivos de configuración porque es un lenguaje más fácil de comprender, aunque ambos pueden usarse de manera indistinta en la mayoría de los casos.  
 Además de Ansible, hay otros elementos que utilizan *YAML*, como las implementaciones y los recursos de Kubernetes. 
 Una de las ventajas de utilizarlo es que se pueden agregar los archivos a un control de versiones, como Github, para rastrear y auditar los cambios.
+
+![3](3.png)
 
 # Bibliografía
 
