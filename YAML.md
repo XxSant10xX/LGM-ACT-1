@@ -26,6 +26,6 @@ Si este archivo se traduce a Python con la biblioteca PyYAML, se generará la es
 
 # Bibliografía
 
-[1]: RED HAT. *¿Qué es YAML?*. [URL del sitio web: ] (https://www.redhat.com/es/topics/automation/what-is-yaml)https://www.redhat.com/es/topics/automation/what-is-yaml)
-
+[1]: RED HAT. *¿Qué es YAML?*. [URL del sitio web: ] (https://www.redhat.com/es/topics/automation/what-is-yaml)
+[2]: Wikipedia. *¿YAML?*. [URL del sitio web: ] (https://es.wikipedia.org/wiki/YAML)
 
