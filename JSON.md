@@ -9,7 +9,8 @@
 2. Sintaxis y Ejemplos de JSON
 3. Los usos de JSON
 4. Como Funciona JSON
-5. Bibliografía
+5. Cuales son sus caracteristicas
+6. Bibliografía
 ---------------------------
 
 # **JSON** 
