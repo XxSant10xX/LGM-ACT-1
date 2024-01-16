@@ -24,8 +24,14 @@ Si este archivo se traduce a Python con la biblioteca PyYAML, se generará la es
 
 ![Mi Imagen Local](1.png)
 
+### **Los usos de YAML**
+Uno de los usos más comunes es la creación de archivos de configuración. Se recomienda utilizar *YAML* en lugar de *JSON* para escribir los archivos de configuración porque es un lenguaje más fácil de comprender, aunque ambos pueden usarse de manera indistinta en la mayoría de los casos.  
+Además de Ansible, hay otros elementos que utilizan *YAML*, como las implementaciones y los recursos de Kubernetes. 
+Una de las ventajas de utilizarlo es que se pueden agregar los archivos a un control de versiones, como Github, para rastrear y auditar los cambios.
+
 # Bibliografía
 
 [1]: RED HAT. *¿Qué es YAML?*. [URL del sitio web: ] (https://www.redhat.com/es/topics/automation/what-is-yaml)
+
 [2]: Wikipedia. *¿YAML?*. [URL del sitio web: ] (https://es.wikipedia.org/wiki/YAML)
 
